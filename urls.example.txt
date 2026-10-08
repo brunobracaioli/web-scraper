@@ -1,0 +1,4 @@
+# One URL per line. Blank lines and lines starting with # are ignored.
+# Usage: ./scrape.sh batch urls.example.txt
+https://stackshare.io/nubank
+https://example.com
